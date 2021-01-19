@@ -1,0 +1,23 @@
+body
+{
+padding: 25px;
+margin: 25px;
+padding-top: 0%;
+}
+@media screen and (min-width:700px){
+    body
+    {
+        padding-left: 20%;
+        padding-right: 20%;
+        padding-top: 0%;
+        margin: 300px;
+    }
+    
+   
+        
+    }
+
+    img{
+        float: right;
+    }
+    
